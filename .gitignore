@@ -1,0 +1,7 @@
+.DS_Store
+application/config/database.php
+application/logs
+assets/data/outgoing/backup.sql
+csv/Report - Inventory Report.csv
+application/config/constants.php
+application/ci_sessions
